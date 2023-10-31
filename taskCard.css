@@ -1,0 +1,232 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    width: 900px;
+    background-color: rgb(6, 6, 42);
+    position: fixed;
+    left: 300px;
+    top: 50px;
+}
+.violet{
+    height: 280px;
+    width: 160px;
+    background-color: rgb(76, 37, 196);
+    position: fixed;
+    left: 420px;
+    top: 150px;
+    border-radius: 8px;
+    z-index: 2;
+}
+.darkblue1{
+    height: 200px;
+    width: 160px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 420px;
+    top: 330px;
+    border-radius: 15px;
+    z-index: 1;
+}
+.orange{
+    height: 150px;
+    width: 150px;
+    background-color: orangered;
+    position: fixed;
+    left: 600px;
+    top: 150px;
+    border-radius: 6px;
+    z-index: 1;
+}
+.darkblue2{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 600px;
+    top: 180px;
+    border-radius: 15px;
+    z-index: 2;
+}
+.blue{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(64, 131, 219);
+    position: fixed;
+    left: 770px;
+    top: 150px;
+    border-radius: 6px;
+    z-index: 1;
+}
+.darkblue3{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 770px;
+    top: 180px;
+    border-radius: 15px;
+    z-index: 2;
+}
+.orchid{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(234, 68, 212);
+    position: fixed;
+    left: 940px;
+    top: 150px;
+    border-radius: 6px;
+    z-index: 1;
+}
+.darkblue4{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 940px;
+    top: 180px;
+    border-radius: 15px;
+    z-index: 2;
+}
+.green{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(68, 234, 159);
+    position: fixed;
+    left: 600px;
+    top: 350px;
+    border-radius: 6px;
+    z-index: 1;
+}
+.darkblue5{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 600px;
+    bottom: 200px;
+    border-radius: 15px;
+    z-index: 2;
+}
+.purple{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(130, 11, 199);
+    position: fixed;
+    left: 770px;
+    top: 350px;
+    border-radius: 6px;
+    z-index: 1;
+}
+.darkblue6{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 770px;
+    bottom: 200px;
+    border-radius: 15px;
+    z-index: 2;
+}
+.yellow{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(226, 216, 13);
+    position: fixed;
+    left: 940px;
+    top: 350px;
+    border-radius: 6px;
+    z-index: 1;    
+}
+.darkblue7{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 4, 78);
+    position: fixed;
+    left: 940px;
+    bottom: 200px;
+    border-radius: 15px;
+    z-index: 2;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    color: white;
+    left: 10px;
+}
+.name{
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 10px;
+    top: 110px;
+}
+.text1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    color: white;
+    left: 20px;
+    top: 100px;
+    font-size: 10px;
+}
+.text2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    color: white;
+    left: 20px;
+    top: 10px;
+    font-size: 10px;
+}
+.size1{
+    font-size: 30px;
+}
+.text3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    color: white;
+    left: 20px;
+    top: 10px;
+    font-size: 10px;
+}
+.size2{
+    font-size: 30px;
+}
+.text4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    color: white;
+    left: 20px;
+    top: 10px;
+    font-size: 10px;
+}
+.size3{
+    font-size: 30px;
+}
+.dot1{
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: 1px;
+}
+.dot2{
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: 1px;
+}
+.dot3{
+    color: white;
+    position: absolute;
+    left: 120px;
+    top: 1px;
+}
+.img1{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    border: 2px solid white;
+}
